@@ -1,0 +1,7 @@
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\bin\Debug\l1P5_Michaux.exe.config
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\bin\Debug\l1P5_Michaux.exe
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\bin\Debug\l1P5_Michaux.pdb
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\obj\Debug\l1P5_Michaux.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\obj\Debug\l1P5_Michaux.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\obj\Debug\l1P5_Michaux.exe
+C:\Users\190478\Desktop\l1P5_Michaux\l1P5_Michaux\obj\Debug\l1P5_Michaux.pdb
